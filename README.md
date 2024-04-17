@@ -7,9 +7,9 @@ Search and color code the text in the PDF for better readability
 pip install PyMuPDF
 ```
 
-### Run
+### How to use
 
-You can run it as follows:
+This program can be used as follows:
 
 ```
 python AnnotateyourPDF.py --input_pdf <pdf file name> --Text_list <"text1", "text2", "text3", "text4">
